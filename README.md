@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+About:-This a simple react project which covers important react topics . The data in this application is fetched through api which lets you to easily manipulate the data as per your wish . This application also elaborates few animation features for better user view.
+
+<img src="https://i.ibb.co/sVqLf7c/Whats-App-Image-2023-03-26-at-11-17-34-PM-1.jpg" width="600px" alt="img" border="0">
+
 ## Available Scripts
 
 In the project directory, you can run:
